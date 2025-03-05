@@ -1,0 +1,14 @@
+C:\Users\chait\source\repos\ConsoleApp5\bin\Debug\net8.0\Practicequestions20.exe
+C:\Users\chait\source\repos\ConsoleApp5\bin\Debug\net8.0\Practicequestions20.deps.json
+C:\Users\chait\source\repos\ConsoleApp5\bin\Debug\net8.0\Practicequestions20.runtimeconfig.json
+C:\Users\chait\source\repos\ConsoleApp5\bin\Debug\net8.0\Practicequestions20.dll
+C:\Users\chait\source\repos\ConsoleApp5\bin\Debug\net8.0\Practicequestions20.pdb
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\Practicequestions20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\Practicequestions20.AssemblyInfoInputs.cache
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\Practicequestions20.AssemblyInfo.cs
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\Practicequestions20.csproj.CoreCompileInputs.cache
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\Practicequestions20.dll
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\refint\Practicequestions20.dll
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\Practicequestions20.pdb
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\Practicequestions20.genruntimeconfig.cache
+C:\Users\chait\source\repos\ConsoleApp5\obj\Debug\net8.0\ref\Practicequestions20.dll
